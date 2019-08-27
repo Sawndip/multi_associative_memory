@@ -1,0 +1,2 @@
+we plot Mmaximal number of patterns we can store such that at most fidelity_outside many vertices turn active in the whol graph on average. florian_marceolo... produces matrices which stores for each new graph trial how many patterns were maximaly be inserted. 
+plot_max_number_patterns_over_d_vary_s does the matlab plots.
