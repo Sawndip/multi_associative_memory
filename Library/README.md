@@ -1,2 +1,3 @@
 # multi_associative_memory
-Code for the paper "Multiassociative Memory: Recurrent Synapses Increase Storage Capacity"
+This folder contains basic utility functions used throughout the simulations.
+The files were created mostly by Hafsteinn Einarsson and Miloš Trujić.
